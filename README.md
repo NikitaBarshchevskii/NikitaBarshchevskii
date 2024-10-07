@@ -32,5 +32,4 @@
 
 ---
 
-GitHub: [NikitaBarshchevskii](https://github.com/NikitaBarshchevskii)  
 Telegram: [@nekitach](https://t.me/nekitach)
