@@ -8,6 +8,8 @@
 
 📧 Contact: [nukuta092002@mail.ru](mailto:nukuta092002@mail.ru)
 
+Telegram: [@nekitach](https://t.me/nekitach)
+
 ---
 
 ### 🖥️ Technical Skills:
@@ -29,7 +31,3 @@
 - **Russian**: Native
 - **English**: Fluent (C2, IELTS 8.5)
 - **German**: Basic (A2)
-
----
-
-Telegram: [@nekitach](https://t.me/nekitach)
